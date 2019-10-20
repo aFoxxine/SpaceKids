@@ -172,6 +172,10 @@ body {
     z-index: 1;
 }
 
+.img-causa{
+width: 50%;
+margin: auto;
+}
 
 .hero-area:before {
     content: '';
@@ -398,12 +402,11 @@ h3{
 .product-title {
     font-size: 15px;
     color: #4f4f4f;
-    text-align: center;
+    text-align: justify;
     padding-top: 25px;
     overflow: hidden;
     display: block;
     position: relative;
-    background: #fff !important;
     font-weight: 400;
 }
 
